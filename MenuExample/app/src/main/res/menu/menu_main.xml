@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".telusko.com.menuexample.MenuDemo">
+    <Item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        />
+
+    <Item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About"
+        />
+
+    <Item
+        android:id="@+id/contact"
+        android:orderInCategory="100"
+        android:title="Contact us"
+        />
+
+
+
+</menu>

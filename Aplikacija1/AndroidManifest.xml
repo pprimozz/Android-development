@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aplikacija1"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.aplikacija1.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+        android:name="com.example.aplikacija1.showpage"
+        android:label="GetWebpage">
+            <intent-filter>
+                <action android:name="com.example.aplikacija1.showpage" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+</activity>
+
+        <activity
+        android:name="com.example.aplikacija1.settings"
+        android:label="Settings">
+            <intent-filter>
+                <action android:name="com.example.aplikacija1.settings" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+</activity>
+<activity
+            android:name="com.example.aplikacija1.mainwindow"
+            android:label="mainwindow" >
+            <intent-filter>
+                <action android:name="com.example.aplikacija1.mainwindow" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

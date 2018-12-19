@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aplikacija1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="btn1Click">Prikaži stran</string>
+     <string name="btnSaveS">Shrani</string>
+     <string name="Chk">Chk</string>
+     <string name="Izb1">Izbira 1</string>
+     <string name="Izb2">Izbira 2</string>
+     <string name="urlAddress"></string>
+     
+     <string name="num1">1</string>
+     <string name="num2">2</string>
+     <string name="num3">3</string>
+     <string name="num4">4</string>
+     <string name="num5">5</string>
+     <string name="num6">6</string>
+     <string name="num7">7</string>
+     <string name="num8">8</string>
+     <string name="num9">9</string>
+     <string name="numhash">#</string>
+     <string name="num0">0</string>
+     <string name="numDEL">DEL</string>
+     <string name="ok">OK</string>
+     <string name="opcija2">Opcija 2</string>
+     <string name="opcija3">Opcija 3</string> 
+      <string name="enterU">User ID:</string>
+     <string name="enterPIN">PIN: </string> 
+     
+
+</resources>

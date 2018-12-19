@@ -1,0 +1,77 @@
+{
+  "F:\\Programiranje\\Android development\\3SettingUpVariablesAndReferencingXMLIDs\\gen": {
+    "location": "F:\\Programiranje\\Android development\\3SettingUpVariablesAndReferencingXMLIDs\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Android development\\3SettingUpVariablesAndReferencingXMLIDs\\gen\u0027. Skipped."
+  },
+  "F:\\Programi\\adt-bundle-windows-x86_64-20131030\\sdk\\platforms\\android-19\\android.jar": {
+    "location": "F:\\Programi\\adt-bundle-windows-x86_64-20131030\\sdk\\platforms\\android-19\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027F:\\Programi\\adt-bundle-windows-x86_64-20131030\\sdk\\platforms\\android-19\\android.jar\u0027. Neither fingerprint \u0027e8f132406a3a24842242815287e32bb1d7ed0b97\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "F:\\Programiranje\\Android development\\6_Setting_Up_an_Activity_and_using_SetContentView\\gen": {
+    "location": "F:\\Programiranje\\Android development\\6_Setting_Up_an_Activity_and_using_SetContentView\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Android development\\6_Setting_Up_an_Activity_and_using_SetContentView\\gen\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Android development\\6SettingUpAnActivityAndUsingSetContentView\\gen": {
+    "location": "F:\\Programiranje\\Android development\\6SettingUpAnActivityAndUsingSetContentView\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Android development\\6SettingUpAnActivityAndUsingSetContentView\\gen\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Android development\\6SettingUpAnActivityAndUsingSetContentView\\src": {
+    "location": "F:\\Programiranje\\Android development\\6SettingUpAnActivityAndUsingSetContentView\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Android development\\6SettingUpAnActivityAndUsingSetContentView\\src\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Android development\\7.XML.Introducing.the.EditText\\gen": {
+    "location": "F:\\Programiranje\\Android development\\7.XML.Introducing.the.EditText\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Android development\\7.XML.Introducing.the.EditText\\gen\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Android development\\8.CrazyTipCalc\\gen": {
+    "location": "F:\\Programiranje\\Android development\\8.CrazyTipCalc\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Android development\\8.CrazyTipCalc\\gen\u0027. Skipped."
+  },
+  "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "F:\\Programiranje\\Java\\Event.handling\\src": {
+    "location": "F:\\Programiranje\\Java\\Event.handling\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Java\\Event.handling\\src\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Java\\Simple.Polymorphic.Program\\src": {
+    "location": "F:\\Programiranje\\Java\\Simple.Polymorphic.Program\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Java\\Simple.Polymorphic.Program\\src\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Java\\Abstract.And.Concrete.Classes\\src": {
+    "location": "F:\\Programiranje\\Java\\Abstract.And.Concrete.Classes\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Java\\Abstract.And.Concrete.Classes\\src\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Java\\Class.To.Hold.Objects\\src": {
+    "location": "F:\\Programiranje\\Java\\Class.To.Hold.Objects\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Java\\Class.To.Hold.Objects\\src\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Java\\Array.Holding.Many.Objects\\src": {
+    "location": "F:\\Programiranje\\Java\\Array.Holding.Many.Objects\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Java\\Array.Holding.Many.Objects\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Primož\\Desktop\\testProject\\src": {
+    "location": "C:\\Users\\Primož\\Desktop\\testProject\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Primož\\Desktop\\testProject\\src\u0027. Skipped."
+  },
+  "F:\\Programiranje\\Java\\Static.Methods\\src": {
+    "location": "F:\\Programiranje\\Java\\Static.Methods\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027F:\\Programiranje\\Java\\Static.Methods\\src\u0027. Skipped."
+  }
+}

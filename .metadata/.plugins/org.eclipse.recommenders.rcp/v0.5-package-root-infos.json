@@ -1,0 +1,340 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be4124ecceb37230419f0f31ea6e7d50babb4973",
+    "jarFileModificationDate": "2013-12-18T19:14:59+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-20T13:50:18.123+01:00",
+    "location": "F:\\Programiranje\\Android development\\3SettingUpVariablesAndReferencingXMLIDs\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7acf42fb63998f98ca2451e42ca6c283b98a3aeb",
+    "jarFileModificationDate": "2013-12-18T20:57:10+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "555a764ca9b50ecb2ae715a94042da668c53e123",
+    "jarFileModificationDate": "2013-12-18T20:21:13+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8f132406a3a24842242815287e32bb1d7ed0b97",
+    "jarFileModificationDate": "2014-01-19T18:27:08.225+01:00",
+    "location": "F:\\Programi\\adt-bundle-windows-x86_64-20131030\\sdk\\platforms\\android-19\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba04f20d9486f44bb2895885d8944ca7a4b91118",
+    "jarFileModificationDate": "2013-12-18T20:56:45+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b2bef2ebb0916eb6bdd6bd29a97ab94c23618dc3",
+    "jarFileModificationDate": "2013-05-01T04:58:52+02:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\QTJava.zip",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1826204b0e05aef412b595321866f7d190e0498d",
+    "jarFileModificationDate": "2013-12-18T19:52:44+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5e51ce82a095b4a23291b1cd35e6f1488efc5776",
+    "jarFileModificationDate": "2013-12-18T19:34:02+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-20T17:16:20.886+01:00",
+    "location": "F:\\Programiranje\\Android development\\5AddingResourcesAndSettingBackground\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec2e4e9fee7de31ac2426dc34ae8c76d6ab62e30",
+    "jarFileModificationDate": "2013-12-18T19:57:04+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-22T13:39:34.260+01:00",
+    "location": "F:\\Programiranje\\Android development\\7.XML.Introducing.the.EditText\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35b1ff32138d818bd730f5df657163f3b1fc3d4d",
+    "jarFileModificationDate": "2013-12-18T19:35:36+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-02-03T12:36:19.017+01:00",
+    "location": "F:\\Programiranje\\Android development\\9.Android.Stock.Quote.App\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "95dc9053062d68cde4e8c38494cc63aefd7b0a42",
+    "jarFileModificationDate": "2013-12-23T14:01:52.131+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ca6baf9ad4c7f3fe2bdca3502cde1e43b6ea9a3a",
+    "jarFileModificationDate": "2013-12-18T20:01:53+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-20T13:32:05.800+01:00",
+    "location": "F:\\Programiranje\\Android development\\2CreatingAButtonInXMLAndAddingID\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "447ba9a039506fc15af66978d30359c28b427e9f",
+    "jarFileModificationDate": "2013-12-18T20:56:44+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a60c339ebc91869355f261d7ff7d3c6b335aabb6",
+    "jarFileModificationDate": "2013-12-18T19:57:48+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\access-bridge-32.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b151e72980db486d2057e0e15fadd5133f574f3d",
+    "jarFileModificationDate": "2013-12-18T20:56:53+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-27T11:19:42.560+01:00",
+    "location": "F:\\Programiranje\\Android development\\8.CrazyTipCalc\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0ac952099f5d1ba16ac9ca3b1284b2b959c2e082",
+    "jarFileModificationDate": "2013-12-18T20:21:13+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-20T11:19:17.189+01:00",
+    "location": "F:\\Programiranje\\Android development\\1 testAndroid\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-20T14:01:24.362+01:00",
+    "location": "F:\\Programiranje\\Android development\\4SetUpAButtonWithOnClickListener\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3d1a9689f1c8e36ab64fb669df92076771c42f2",
+    "jarFileModificationDate": "2013-12-23T14:01:52.135+01:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0f122c99ef9f90dbab3fada6d191f2880cbb8e",
+    "jarFileModificationDate": "2014-01-20T18:39:39.343+01:00",
+    "location": "F:\\Programiranje\\Android development\\6SettingUpAnActivityAndUsingSetContentView\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  }
+]

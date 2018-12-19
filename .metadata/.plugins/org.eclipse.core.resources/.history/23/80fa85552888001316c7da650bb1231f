@@ -1,0 +1,14 @@
+public class Main{
+	
+	public static void main(String[] args){
+		
+		second test = new second();
+		third test3 = new third();
+		
+		second[] second = new second[2];
+		second[0] = test;
+		
+		System.out.println(second[0]);
+	}
+	
+}
